@@ -3,7 +3,11 @@ Code in C++ to find common friends of two persons from .txt file.........like Fa
 
 Header files needed to include:
 
-  
+  #include <iostream>  -----------> to handle input/output streams
+  #include <fstream>   -----------> to handle file handling
+  #include <vector>    -----------> to handle vectors processing
+  #include <string>    -----------> to handle string data type operations
+  #include <sstream>   -----------> to handle string streams
 
 To completely understanding the problem statement read word 'Project_problem_statement'.
 
