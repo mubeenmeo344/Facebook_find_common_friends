@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1595335683 source:c:\users\mubeen\onedrive\desktop\small_network_frientships_count\facebook\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+
+1595356030 source:c:\users\mubee\onedrive\desktop\ussama mcs cf projects\small_network_frientships_count\facebook\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+
